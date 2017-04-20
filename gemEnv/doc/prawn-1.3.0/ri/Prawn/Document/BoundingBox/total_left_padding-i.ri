@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"total_left_padding:ETI"4Prawn::Document::BoundingBox#total_left_padding;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@private ;TI"BThe current indentation of the left side of the bounding box.;T:
+@fileI"'lib/prawn/document/bounding_box.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Prawn::Document::BoundingBox;TcRDoc::NormalClass0
